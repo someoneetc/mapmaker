@@ -18,6 +18,7 @@
 
 #include <mm/heightmap.h>
 #include <mm/random.h>
+#include <functional>
 
 namespace mm {
 

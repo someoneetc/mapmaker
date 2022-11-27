@@ -21,6 +21,7 @@
 #include <fstream>
 #include <queue>
 #include <stdexcept>
+#include <cassert>
 
 #include <yaml-cpp/yaml.h>
 
